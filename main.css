@@ -1,0 +1,187 @@
+body{
+background-color:#;
+}
+
+
+
+.navbar-default{
+	
+	width:100%;
+	height:53px;
+	text-align:center;
+	float:left;
+	line-height:30px;
+	background-color:#F9B20E;
+	
+}
+.navbar-default.navbar-nav li a{
+	color:black;
+	display:inline;
+	text-decoration:none;
+	font-family:Georgia, serif;
+	font-size:15px;
+	text-align:center;
+	float:left;
+	background-color:red;
+ 	
+}
+.navbar-default .navbar-nav li a:hover
+		{
+		background-color:#F9B20E;
+		color:#000;
+		}
+		.navbar-default .navbar-nav .dropdown-menu li{
+			color:black;
+			display:block;
+			font-family:verdna;
+			font-size:15px;
+			text-align:center;
+	
+			
+			
+		}
+		.navbar-default .navbar-nav .dropdown-menu li a:hover{
+			
+			background-color:#00AEFF;
+			color:#000;
+			float:right;
+		}
+		.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+	  height:400px;
+  }
+  
+  .foot{
+	  background-color:#F9B20E;
+	  height:40px;
+	  padding-top:7px;
+  }
+ .navbar-form{
+	 margin:30px;
+	 
+	 
+ }
+ .login{
+	 
+	 padding-top:45px;
+	 float:left;
+	 
+	 
+ }
+.about{
+	float:left;
+	text-align:left;
+}
+
+ .btn-default{
+	 width:200px;
+	 height:50px;
+	 background-color:#F9B20E;
+	
+ }
+	.btn-default:hover{
+	background-color:#BF5F16; 
+	color:yellow;
+	}
+
+.dropdown-menu li a:hover{
+	background-color:#F9B20E;
+	color:black;
+}
+.company img{
+	display:inline;
+	margin:0px auto;
+	border-radius:150px;
+	border:2px solid #dfdfdf;
+	list-style-type:none;
+	box-shadow:2px 2px 5px #000;
+    text-decoration:none;
+}
+.fot{
+	 background-color:#F9B20E; 
+	 color:#4AC96B;
+	
+	 
+}
+.fot a:hover{
+	 background-color:; 
+		 color:#4AC96B;
+		 
+ }
+ .fot1 img{
+	 border-radius:40px;
+ }
+.bg-1{
+	background-color:#777773;
+	text-align:justify;
+} 
+.bg-1 p{
+	font-size:20px;
+	font-family:trajon pro;
+	color:black;
+	line-height:18px;
+}
+.bg-1 h4{
+	font-size:22px;
+	font-family:verdana;
+}
+.fot2 p{
+	text-align:center;
+	font-size:18px;
+	color:#BF5F16;
+	padding-top:8px;
+}
+.back_service img{
+    height:100px;
+	width:100%;
+}
+
+.bg_outsourcecontent p{
+	color:black;
+	font-family:verdana;
+	text-align:justify;
+	text-align-last:left;
+	font-size:15px;
+}
+.client_content{
+         list-style-type:square;
+		 text-align:justify;
+		 font-size:14px;
+		 font-family:verdana;
+	
+}
+.career_content{
+	text-align:justify;
+	font-size:15px;
+	text-indent:30px;
+}
+.contact_content{
+	float:left;
+	text-align:justify;
+	
+}
+.contact_content h3{
+	text-align:justify;
+	font-size:20px;
+	font-weight:bold;
+}
+.contact_content p{
+	text-align:justify;
+	font-size:18px;
+	font-weight:normal;
+}
+
+#email{
+	align:left;
+}	
+.btn-block{
+background-color:#F9B20E;
+	
+ }
+	.btn-block:hover{
+	background-color:#BF5F16; 
+	color:yellow;
+	}
+
